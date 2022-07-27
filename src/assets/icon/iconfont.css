@@ -1,0 +1,83 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3295127 */
+  src: url('iconfont.woff2?t=1658742590315') format('woff2'),
+       url('iconfont.woff?t=1658742590315') format('woff'),
+       url('iconfont.ttf?t=1658742590315') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-wifi:before {
+  content: "\e6f2";
+}
+
+.icon-haofangtuo400iconfont2reshuiqi:before {
+  content: "\e6fc";
+}
+
+.icon-meiqitianranqi:before {
+  content: "\e60e";
+}
+
+.icon-kongtiao:before {
+  content: "\e6a5";
+}
+
+.icon-dianshiji:before {
+  content: "\e90a";
+}
+
+.icon-xiyiji:before {
+  content: "\e90d";
+}
+
+.icon-shafa:before {
+  content: "\e609";
+}
+
+.icon-bingxiang:before {
+  content: "\ec4f";
+}
+
+.icon-yigui:before {
+  content: "\e643";
+}
+
+.icon-nuanqi:before {
+  content: "\e67d";
+}
+
+.icon-xiaoxi:before {
+  content: "\e79c";
+}
+
+.icon-cancle:before {
+  content: "\e606";
+}
+
+.icon-time:before {
+  content: "\e601";
+}
+
+.icon-add:before {
+  content: "\e602";
+}
+
+.icon-preview:before {
+  content: "\e603";
+}
+
+.icon-edit:before {
+  content: "\e604";
+}
+
+.icon-share:before {
+  content: "\e605";
+}
+

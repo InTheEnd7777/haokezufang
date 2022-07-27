@@ -1,0 +1,128 @@
+{
+  "id": "3295127",
+  "name": "iconfont",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "59492",
+      "name": "wifi",
+      "font_class": "wifi",
+      "unicode": "e6f2",
+      "unicode_decimal": 59122
+    },
+    {
+      "icon_id": "1264641",
+      "name": "好房拓 4.0.0 iconfont 2_热水器",
+      "font_class": "haofangtuo400iconfont2reshuiqi",
+      "unicode": "e6fc",
+      "unicode_decimal": 59132
+    },
+    {
+      "icon_id": "1367319",
+      "name": "煤气天然气",
+      "font_class": "meiqitianranqi",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "3845138",
+      "name": "空调",
+      "font_class": "kongtiao",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "4762909",
+      "name": "电视机",
+      "font_class": "dianshiji",
+      "unicode": "e90a",
+      "unicode_decimal": 59658
+    },
+    {
+      "icon_id": "4762918",
+      "name": "洗衣机",
+      "font_class": "xiyiji",
+      "unicode": "e90d",
+      "unicode_decimal": 59661
+    },
+    {
+      "icon_id": "5157213",
+      "name": "沙发",
+      "font_class": "shafa",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "5961301",
+      "name": "冰箱",
+      "font_class": "bingxiang",
+      "unicode": "ec4f",
+      "unicode_decimal": 60495
+    },
+    {
+      "icon_id": "9166422",
+      "name": "衣柜",
+      "font_class": "yigui",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "13672677",
+      "name": "暖气",
+      "font_class": "nuanqi",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "11536451",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e79c",
+      "unicode_decimal": 59292
+    },
+    {
+      "icon_id": "28669891",
+      "name": "cancle",
+      "font_class": "cancle",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "28669892",
+      "name": "time",
+      "font_class": "time",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "28669893",
+      "name": "add",
+      "font_class": "add",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "28669894",
+      "name": "preview",
+      "font_class": "preview",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "28669895",
+      "name": "edit",
+      "font_class": "edit",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "28669896",
+      "name": "share",
+      "font_class": "share",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    }
+  ]
+}
